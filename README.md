@@ -1,5 +1,5 @@
 # SkillFactoryRepairDesignProject
 
-# Студент - Колчанов Данила FR-1019
+Студент - Колчанов Данила FR-1019
 
-## Верстка макета RepairDesignProject (desktop and mobile)
+Верстка макета RepairDesignProject (desktop and mobile)
